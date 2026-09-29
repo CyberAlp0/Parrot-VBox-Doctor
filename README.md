@@ -1,5 +1,7 @@
 # 🦜 Parrot VM Toolkit
 
+![Parrot VBox Doctor](assets/social-preview.png)
+
 **Comprehensive verification and optimization toolkit for Parrot Security OS & Kali Linux VirtualBox VMs**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
